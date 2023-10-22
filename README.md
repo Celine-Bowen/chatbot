@@ -8,7 +8,7 @@
 ## Installation
 
     1.Clone the repository:
-        git clone https://github.com/yourusername/your-chatbot-repo.git
+        git clone https://github.com/Celine-Bowen/chatbot.git
 
     2.Change directory to the project folder:
         cd chatbot
