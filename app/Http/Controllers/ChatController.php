@@ -60,7 +60,7 @@ class ChatController extends Controller
     {
         // Use your OpenAI API credentials here
         $openai = new OpenAI([
-            'key' => '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',
+            'key' => env('OPENAI_API_KEY');
         ]);
 
         // Make a request to OpenAI's Chat API

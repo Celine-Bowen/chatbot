@@ -44,8 +44,8 @@ body {
 
 /* Chat Input Form */
 .chat-input {
-    display: flex;
-    align-items: center;
+    /* display: flex;
+    align-items: center; */
     width: 60%; /* Set the width to 60% */
 }
 
